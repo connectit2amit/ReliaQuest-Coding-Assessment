@@ -1,0 +1,93 @@
+// Curl to create Employees
+
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Aarav Sharma", "salary": 50000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Vivaan Patel", "salary": 52000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Aditya Singh", "salary": 48000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Vihaan Gupta", "salary": 55000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Arjun Verma", "salary": 53000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Sai Kaur", "salary": 51000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Ishaan Reddy", "salary": 54000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Krishna Nair", "salary": 56000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Aryan Mehta", "salary": 49000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Ayaan Joshi", "salary": 57000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Ananya Kumar", "salary": 55000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Saanvi Das", "salary": 53000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Madhav Yadav", "salary": 58000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Tanishq Singh", "salary": 60000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Pihu Sharma", "salary": 59000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Manav Kumar", "salary": 60000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Rishabh Iyer", "salary": 62000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Yashvi Gupta", "salary": 61000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Shivansh Bhat", "salary": 63000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Vanshika Chauhan", "salary": 64000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Reyansh Pandey", "salary": 65000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Kavya Gupta", "salary": 66000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Tejasvi Reddy", "salary": 67000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Nitya Desai", "salary": 68000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Ravi Bansal", "salary": 69000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Prisha Kapoor", "salary": 70000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Devansh Mishra", "salary": 71000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Kriti Singh", "salary": 72000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Shreya Yadav", "salary": 73000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Siddharth Mehra", "salary": 74000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Aadhya Agarwal", "salary": 75000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Harsh Goel", "salary": 76000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Karan Bhagat", "salary": 77000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Parth Deshmukh", "salary": 78000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Vaibhav Patel", "salary": 79000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Arvind Verma", "salary": 80000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Chaitanya Prasad", "salary": 81000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Radhika Pandit", "salary": 82000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Sahil Nair", "salary": 83000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Manasi Rane", "salary": 84000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Naman Joshi", "salary": 85000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Vikram Patel", "salary": 86000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Kajal Shah", "salary": 87000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Neelam Yadav", "salary": 88000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Tanya Kumari", "salary": 89000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Ruchi Singh", "salary": 90000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Siddhi Soni", "salary": 91000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Rishika Mehta", "salary": 92000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Pranav Dubey", "salary": 93000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Nidhi Rao", "salary": 94000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Tanvi Thakur", "salary": 95000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Meher Patel", "salary": 96000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Isha Dubey", "salary": 97000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Ankush Mishra", "salary": 98000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Rajesh Bansal", "salary": 99000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Jahnavi Saini", "salary": 100000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Akash Sharma", "salary": 101000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Sanya Gupta", "salary": 102000}'
+curl -X POST "http://localhost:8111/employees" -H "Content-Type: application/json" -d '{"name": "Devanshi Joshi", "salary": 103000}'
+
+
+// Curl to get all employees
+curl --location 'http://localhost:8111/employees'
+
+// Curl to search employee by its name
+curl --location 'http://localhost:8111/employees/search/Aarav'
+
+// curl to search by id
+curl --location 'http://localhost:8111/employees/ENO-20'
+
+// curl to find the highest salary
+curl --location 'http://localhost:8111/employees/highestSalary'
+
+// curl to find top 10 highest salary employee names
+curl --location 'http://localhost:8111/employees/topTenHighestEarningEmployeeNames'
+
+// create employee -> should throw error response
+
+curl --location 'http://localhost:8111/employees' \
+--header 'Content-Type: application/json' \
+--data '{"name": "Jane Doe"}'
+
+curl --location 'http://localhost:8111/employees' \
+--header 'Content-Type: application/json' \
+--data '{"salary": 9}'
+
+// delete employee
+
+curl --location --request DELETE 'http://localhost:8111/employees/ENO-1'
+
+

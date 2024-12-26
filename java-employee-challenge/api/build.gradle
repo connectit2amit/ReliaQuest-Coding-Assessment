@@ -1,0 +1,13 @@
+plugins {
+    id 'project-conventions'
+}
+
+dependencies {
+    // Spring Boot Starter Validation (includes Hibernate Validator)
+    implementation 'org.springframework.boot:spring-boot-starter-validation'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+}
+
+springBoot {
+    mainClass = 'com.reliaquest.api.ApiApplication'
+}
